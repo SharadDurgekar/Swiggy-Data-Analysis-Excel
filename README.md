@@ -138,7 +138,7 @@ The dashboard includes interactive slicers for:
 
 ## 📊 Dashboard Preview
 
-![Swiggy Excel Dashboard](images/dashboard.jpg)
+![Swiggy Excel Dashboard](dashboard.jpg)
 
 ---
 
